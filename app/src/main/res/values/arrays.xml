@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_array">
+        <item>Kota Bandung</item>
+        <item>Kota Cimahi</item>
+        <item>Kabupaten Bandung</item>
+    </string-array>
+</resources>
